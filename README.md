@@ -1,5 +1,4 @@
-# README
-
+# image-preprocessing
 ## Task Goal
 
 The goal of this task is to practice **basic image processing using OpenCV**. The task focuses on understanding how to manipulate colors in an image and how to work with masks.
